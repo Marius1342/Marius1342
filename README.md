@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Marius1342
-- 👀 I’m interested in C++, C# and Automation like Arduino Programming 
+- 👀 I’m interested in C++, C#, automation, Arduino Programming and Web
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me just write to me
