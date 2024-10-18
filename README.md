@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Marius1342
 - 👀 I’m interested in C++, C#, automation, Arduino Programming and Web
+- [C# Certification since 2024](https://www.freecodecamp.org/certification/Marius-Knies/foundational-c-sharp-with-microsoft)
 <!---
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on 
